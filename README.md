@@ -1,2 +1,2 @@
 # Notice
-Like my Image Grabber, this was intended for personal usage, so its not built for general purposes in mind. As such, it may seem very obscure. I may come back to generalize it in the future.
+Highly depracted now. I made JMlaker/Flask-Random-Image to be a new version that supports anything with a web interface
